@@ -1,0 +1,31 @@
+{
+  "name": "ezos-flexible",
+  "version": "1.0.1",
+  "description": "Build flexible page on mobile platform",
+  "keywords": [
+    "lib",
+    "ezos",
+    "flexible",
+    "mobile",
+    "css",
+    "rem",
+    "vw"
+  ],
+  "homepage": "https://github.com/WuYunlong/ezos-flexible",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WuYunlong/ezos-flexible.git"
+  },
+  "author": {
+    "name": "WuYunlong",
+    "email": "17771258@qq.com"
+  },
+  "scripts": {
+    "build": "uglifyjs index.js -o index.min.js -c -m"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.0.27"
+  },
+  "license": "MIT"
+}
