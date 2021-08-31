@@ -17,8 +17,8 @@
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
 <script >
-	window.REM_MAX_NUMBER = 7.5
-	window.BODY_MAX_WIDTH = 750
+  window.REM_MAX_NUMBER = 7.5
+  window.BODY_MAX_WIDTH = 750
 </script>
 <script src="./node_modules/ezos-flexible/index.js"></script>
 ```
