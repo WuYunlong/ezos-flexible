@@ -2,6 +2,7 @@
   "name": "ezos-flexible",
   "version": "1.0.1",
   "description": "Build flexible page on mobile platform",
+  "main": "index.js",
   "keywords": [
     "lib",
     "ezos",
